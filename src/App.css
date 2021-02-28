@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  width: 100vw;
+}
+
+.main img {
+  width: 100vw;
+}
+
+.main h2 {
+  padding: 0 5px 0 5px;
+}
+
+.main p {
+  padding: 0 5px 0 5px;
+}
+
+.beer-list {
+  padding: 20px 20px 20px 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+.beer-list div {
+  margin-left: 20px;
+}
+
+.beer-list img {
+  height: 180px;
+}
